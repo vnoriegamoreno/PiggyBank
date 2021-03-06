@@ -1,0 +1,37 @@
+[
+  {
+    "id": "0717d1f5-ef57-4ff2-80d6-b40a95db71fa",
+    "amount": 1672.89,
+    "date": "02/10/2021",
+    "bankId": "ba15fff7-1575-4778-95d7-e1dfebfe4558",
+    "company": "Freelance"
+  },
+  {
+    "id": "cda84f3f-bd09-4f7c-ad6d-89f9e31c4dac",
+    "amount": 60291.16,
+    "date": "02/10/2021",
+    "bankId": "ba15fff7-1575-4778-95d7-e1dfebfe4558",
+    "company": "Freelance"
+  },
+  {
+    "id": "3ad5239b-fbe9-45a2-9fef-0db1d59cc4b5",
+    "amount": 60000,
+    "date": "03/10/2021",
+    "bankId": "ba15fff7-1575-4778-95d7-e1dfebfe4558",
+    "company": "Freelance"
+  },
+  {
+    "id": "89350b74-9096-45c6-8990-b75fa5c01127",
+    "amount": 20500,
+    "date": "03/15/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002",
+    "company": "Company"
+  },
+  {
+    "id": "13b456d6-cc9a-4bd0-87b0-a7bc9fe82df4",
+    "amount": 20500,
+    "date": "03/30/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002",
+    "company": "Company"
+  }
+]

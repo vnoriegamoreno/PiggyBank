@@ -1,0 +1,163 @@
+[
+  {
+    "name": "Dalton Agency",
+    "category": null,
+    "amount": 5802,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "Mortgage",
+    "category": null,
+    "amount": 16658,
+    "payedDate": "03/10/2021",
+    "bankId": "ba15fff7-1575-4778-95d7-e1dfebfe4558"
+  },
+  {
+    "name": "Mtto A.R",
+    "category": null,
+    "amount": 450,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "Mtto A.R",
+    "category": null,
+    "amount": 450,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "Total Play",
+    "category": null,
+    "amount": 600,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "Groseries",
+    "category": null,
+    "amount": 5000,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "Baby Shower",
+    "category": null,
+    "amount": 5000,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "Saved hey #1",
+    "category": null,
+    "amount": 13000,
+    "payedDate": "03/10/2021",
+    "bankId": "ba15fff7-1575-4778-95d7-e1dfebfe4558"
+  },
+  {
+    "name": "Saved hey #2",
+    "category": null,
+    "amount": 13000,
+    "payedDate": "03/10/2021",
+    "bankId": "ba15fff7-1575-4778-95d7-e1dfebfe4558"
+  },
+  {
+    "name": "Saved hey #3",
+    "category": null,
+    "amount": 14000,
+    "payedDate": "03/10/2021",
+    "bankId": "ba15fff7-1575-4778-95d7-e1dfebfe4558"
+  },
+  {
+    "name": "Tax",
+    "category": null,
+    "amount": 2140,
+    "payedDate": "03/10/2021",
+    "bankId": "ba15fff7-1575-4778-95d7-e1dfebfe4558"
+  },
+  {
+    "name": "Accountant fees",
+    "category": null,
+    "amount": 600,
+    "payedDate": "03/10/2021",
+    "bankId": "ba15fff7-1575-4778-95d7-e1dfebfe4558"
+  },
+  {
+    "name": "Huawei P40 pro",
+    "category": null,
+    "amount": 880,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "iPhone 11 pro max",
+    "category": null,
+    "amount": 1300,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "Wife",
+    "category": null,
+    "amount": 1000,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "CFE",
+    "category": null,
+    "amount": 0,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "SIAPA",
+    "category": null,
+    "amount": 0,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "Dentist",
+    "category": null,
+    "amount": 0,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "Gas",
+    "category": null,
+    "amount": 0,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "Gasoline",
+    "category": null,
+    "amount": 1000,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "Netflix",
+    "category": null,
+    "amount": 230,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "Spotify",
+    "category": null,
+    "amount": 150,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  },
+  {
+    "name": "Amazon",
+    "category": null,
+    "amount": 100,
+    "payedDate": "03/10/2021",
+    "bankId": "0630199e-7d11-11eb-9439-0242ac130002"
+  }
+]
